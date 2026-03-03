@@ -26,7 +26,7 @@ const Contact=()=>{
                 <input type="email" placeholder=" Email" name="email" id="name"/>
             </div>
            
-            <textarea  id="" placeholder="Message" name="message" id="name" rows="20" cols="78"></textarea>
+            <textarea  id="" placeholder="Message" name="message"  rows="20" cols="78"></textarea>
             <button><IoIosSend />Send</button>
         </div>
     </div>
